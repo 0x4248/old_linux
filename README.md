@@ -1,5 +1,5 @@
 # Old Linux
-This is a repository that has two branches. The branches contain old versions of Linux v1 and v2.0.1.
+This is a repository that has two branches. The branches contain old versions of Linux v1 and v2.0.1 without any modifications made.
 
 ## Branches
 Here are the branches.
